@@ -18,7 +18,7 @@
 
 **Corrupted** - Increase the Difficulty all First Aid checks to treat Injuries.
 
-**Vulnerable - Upgrade the severity of the Injury received by one step. A Mild result becomes Serious, a Serious becomes Critical, and a Critical result becomes instant death.
+**Vulnerable** - Upgrade the severity of the Injury received by one step. A Mild result becomes Serious, a Serious becomes Critical, and a Critical result becomes instant death.
 
 **Resistant** - Downgrade the severity of any Injury taken by one step. A Critical result becomes Serious, a Serious becomes Mild, and a Mild result is negated entirely.
 
