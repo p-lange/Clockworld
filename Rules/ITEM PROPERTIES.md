@@ -7,6 +7,7 @@ Crude| Ineffective against non-crude armor and weapons
 Concealablen | Can be hidden in your person and retrieved as an Incidental
 Silent | Using the weapon does reveal your actions or location to others if you are sneaking.
 Non-lethal | Critical Injury results on Damage Roll are downgraded to Serious.
+
 Armor | Properties	
 ---- | ----
 Noisy	| Disadvantage on Sneak Checks related to staying quiet.
