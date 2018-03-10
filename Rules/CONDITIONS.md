@@ -8,7 +8,7 @@
 
 **Prone** - on the ground, either lying prostrate or crouched. You have Cover against Ranged Attacks, but you have Disadvantage on Reactions and Reach Attacks.
 
-**Staggered** - May only perform one Action during your Turn.
+**Staggered** - May only perform one Action during your Turn, and may not focus on.
 
 **Stunned** - You may not take any Actions or Reactions.
 
