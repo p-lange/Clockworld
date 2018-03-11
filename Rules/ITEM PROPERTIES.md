@@ -10,7 +10,7 @@ Non-lethal | Critical Injury results are downgraded to Serious.
 Armor | Properties	
 ---- | ----
 Noisy | Low Roll Sneak Checks related to staying quiet.
-Restrictive | Low Roll Acrobatics and Athletics.
+Restrictive | Low Roll all Reflexes and Athletics Checks.
 Heavy | Low Roll Dodge and Take Cover checks.
 Crude | Non-Crude weapons ignore the Resistance provided by this Armor.
 
