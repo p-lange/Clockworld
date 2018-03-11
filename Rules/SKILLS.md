@@ -9,12 +9,11 @@ If you attempt to perform some activity not normally covered by the listed Actio
 >*For example, Mudo is attempting to juggle his hunting knife to impress some onlookers. This isn’t a pre-written Action, so instead the GM simply calls for Mudo to roll a Rank Check using his Knives Skill.*
  
 ### Improving your Skills
-Throughout play, the GM will award the players Experience Points (XP) after completing a scenario or performing good role-playing. XP is given a few points at a time, usually ranging from 1 to 5 points. XP is given in “Chunks”, which limit how the XP can be spent. No matter what type of XP Chunk you received or the amount of XP within the Chunk, you can only spend one XP per Skill. The GM can award either “Free XP” or “Specific XP”. Free XP can be spent on any Skill you wish, while a Specific XP can only be spent on what the GM decides, which is usually a particular Skill or group of Skills. You do not need to already be trained in a Skill to spend XP on it. The standard XP Chunk for completing a Scenario is (5), however easier or more challenging Scenarios may justify more or less reward. You cannot “save” XP for later use. It is spent immediately upon receipt.
+Throughout play, the GM will award the players Experience Points (XP) after completing a scenario or performing good role-playing. XP is given a few points at a time, usually ranging from 1 to 5 points. XP is given in “Chunks”, which limit how the XP can be spent. No matter what type of XP Chunk you received or the amount of XP within the Chunk, you can only spend one XP per Skill. The standard XP Chunk for completing a Scenario is (5), however easier or more challenging Scenarios may justify more or less reward. You cannot “save” XP for later use. It is spent immediately upon receipt.
  
 When you spend XP, you simply check-off the next bubble on the Skill Page for the Skill you wish to improve. Once you have filled in enough bubbles, your Bonus to checks with that Skill increases, and so will your Rank.
  
 >*For example, after defeating a group of bandits, Mudo is awarded +3 Free XP by the GM. Mudo decides to spend one point in his Handguns Skill, one in Hand-to-Hand, and the third in Athletics. He could not, however, place two points into his Handgun Skill.*
-
 
 ## Close Combat
 **_Close Combat Skills provide you the tools to slice and dice your foes, while defending yourself against the same._**
@@ -29,7 +28,6 @@ Polearms | Block, Disarm, Pot Shot, Ranged Attack*, Reach Attack, Trip
 Rope Weapons | Pin, Reach Attack, Strangle, Trip
 Shields | Block*, Pot Shot, Shove, Reach Attack
 Swords | Block, Disarm, Pot Shot, Reach Attack
-
 
 **Axes** - the Skill associated with wielding axes, such as hatchets, tomahawks, or felling axes. Axes are often useful for dismembering and decapitating foes.
 
@@ -46,7 +44,6 @@ Swords | Block, Disarm, Pot Shot, Reach Attack
 **Shields** - the Skill associated with properly wielding and fighting with shields of various sizes, both to defend yourself from Attacks or bash foes.
 
 **Swords** - the Skill associated with all manner of long, bladed weapons like the saber or rapier. Swords are versatile and common weapons, particularly among cavalrymen.
-
 
 ## Ranged Combat
 **_Ranged Combat Skills provide you the tools to rain death on your enemies from a distance, using both high-tech and low-tech means._**
