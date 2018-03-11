@@ -1,20 +1,3 @@
-## TURN
-On your Turn, you may perform up to two different Actions or one Upgraded Action. You may take your Actions before or after those of the other Characters that share your Turn. For example, you may perform a Move, then an ally could make an Attack, then you could make an Attack. At any point during your Turn, you may also choose your Facing.
-
-There are (5) types of Actions you can perform, and each Action has at least one Upgraded version.
-
-* **Attack** - make a Weapon Attack. You can perform two Attack Actions on your Turn as long as each Attack uses a different limb and weapon.
-* **Deft Attack** - You are Focused for the Attack.
-* **Contest** - perform a Contest, such as Disarming or Distracting a foe.
-* **Deft Contest** - You are Focused for the Contest.
-* **Move** - Move up to your Speed. You may take your other Action at any point during the movement.
-* **Dash** - increase Speed by (+15) feet and gain Focus for any Leap Checks during the movement.
-* **Careful Move** - You are Focused on any Checks made to traverse terrain or Sneak, but not on Leap Checks, during the movement.
-* **Task** - perform a Task. You can perform two Task Actions on your turn as long as they are different Tasks.
-* **Careful Task** - become Focused on the Check.
-* **Defend** - become Focused on your Reactions for one Round.
-* **Hunker** - as Defend, but you also gain an additional Reaction that can be used before your next Turn.
-
 ## Player Turn and Threat Turn
 Within a Scenario, each side of the encounter - the Players, composed of the Player Characters (PCs) and their allies; and the Threats, composed of the villains, monsters, and hazards controlled by the GM, alternate performing their Actions. One side performs all of their Actions, in any order and intermixed with one another, then their foes perform theirs in a similar manner. This alternating continues until the Scenario is complete, such as when one side surrenders or is wiped out. The type of Scenario, constructed by the GM, will dictate how the Scenario can conclude.
 
@@ -22,7 +5,6 @@ This alternating Turn structure begins with whichever side initiated the conflic
 
 ## Round
 A Round is from any point in time until the start of the acting Character’s next Turn. For example, if during the Threat Turn a Player Character (PC) becomes Staggered for one Round, then the Staggered Condition would last until the start of the next Threat Turn.
-
 
 ## Incidentals	
 Not everything a character can do requires an Action or is tied to a Skill. Drawing a weapon, kicking over an adjacent table for Cover, speaking a few sentences, or opening a door are all examples of Incidentals. A particular activity is Incidental if it could be accomplished with a quick movement of a limb or with very little effort.
@@ -32,6 +14,20 @@ You can perform as many Incidentals on your Turn as you like, within reason. A T
 Additionally, manipulating an object in the environment, such as a door, a table, or a weapon in your holster, is only considered Incidental the first time you interact with it. Any additional interactions with that particular object would require the use of an Action.
  
 > _For example, Mudo gets into a firefight with a gang of bandits. Bullets start flying through the tavern where Mudo was enjoying a game of poker. On his Turn, Mudo kicks over the poker table (Incidental), draws his revolver (Incidental) and fires it at one of the bandits (Action). However, if Mudo wished to re-holster his firearm or move the table to grant Cover from a different angle on that same Turn, it would no longer be Incidental and would require his second Action._
+
+## TURN
+On your Turn, you may perform up to two different Actions and any number of Incidentals, within reason. You may take your Actions before or after those of the other Characters that share your Turn. For example, you may perform a Move, then an ally could make an Attack, then you could make an Attack. At any point during your Turn, you may also choose your Facing. 
+
+**_Focusing on an Action_**
+Instead of taking two Actions, you can focus on one Action. Focusing on an Action lets you High Roll any Checks you make for that Action. Some Actions, such as Move and Defend, gain additional benefits from focusing on them.
+
+There are (5) types of Actions you can perform, and each Action has at least one Upgraded version.
+
+* **Attack** - make a Weapon Attack. You can perform two Attack Actions on your Turn if each Attack uses a different limb and weapon.
+* **Contest** - perform a Contest, such as Disarming or Distracting a foe.
+* **Move** - move a distance up to your Speed, including traversing terrain. You may take your other Action at any point during the movement. When you focus on your Move, you may move an additional (15ft).
+* **Task** - perform a Task. You can perform two Task Actions on your turn as long as they are different Tasks.
+* **Defend** - gain an additional Reaction until the start of your next Turn. When you focus on Defending, you High Roll all Reactions until the start of your next Turn.
 
 ## Checks
 Actions require you to roll a check to determine the success or failure of that action. A Check is performed by rolling a d10 and adding your Bonus from the relevant Skill, as well as any other modifiers, such as Advantage or Disadvantage. Depending on the Action you’re using to make the Check, it is either compared against a Task Rank or the Contest of another Character, or both.
@@ -73,14 +69,14 @@ Ranged Attack - Fire, throw, or launch a Ranged Weapon at a Target within the ma
 
 If you’re within the Reach of any hostile creatures when you make a Ranged Attack, you suffer Disadvantage on the roll.
 
-Area Attack - 
+**Area Attack** - 
 
 ## Contests
 Contests are generally offensive Actions that can hinder, distract, or manipulate foes without directly causing Injury. They run the gamut from physical manipulation, such as Shove, to more subtle manipulation, such as Persuade. 
 
 A Contest involves all characters rolling a relevant Check and comparing the results. The initiator of the Contest succeeds on his Action against anyone who’s Check he beats. The Characters involved in a Contest do not need to use a Reaction to defend themselves - they simply roll their relevant Check as part of the resolution of the Action. Like Attacks, you must choose a Target or Targets when making a Contest - simply choose the Character you wish to affect.
 * **Distract** - Harry, intimidate, or otherwise annoy a Target who can see or hear you. If you successfully beat the Target’s Resist Check, they become Distracted on all Checks against you, or all Checks that are not against you, depending on the nature of your Distraction. For example, if you threaten a bandit and use your Bravado to intimidate him, he might become afraid of you and and become Distracted when attempting to fight you, but not others. Conversely, if you insult the bandit and really get under his skin with Guile, he would become focused on you and become Distracted on any Checks in relation to your allies. The Target remains Distracted for one Round.
-* **Persuade** - Convince another Character to behave a certain way for one Round, either through trickery, charm, or coercion. If you beat the Target’s Willpower Check, they are forced to take a particular Action of your choice, within reason. The Target will not do anything suicidal or directly hostile toward its allies, but it might reveal a secret or drop an item its holding. The GM may apply Advantage or Disadvantage on your Check based on the circumstances. For example, you’ll have Disadvantage on your Check to smooth-talk a bandit you’re currently trying to kill, but you’d have Advantage if you’re attempting to intimidate that bandit into surrendering if you’ve recently killed his friends.
+* **Persuade** - Convince another Character to behave a certain way for one Round, either through trickery, charm, or coercion. If you beat the Target’s Resist Check, they are forced to take a particular Action of your choice, within reason. The Target will not do anything suicidal or directly hostile toward its allies, but it might reveal a secret or drop an item its holding. The GM may have you High Roll or Low Roll the Check based on the circumstances. For example, you would Low Roll your Check to smooth-talk a bandit you’re currently trying to kill, but you might High Roll it if you’re attempting to intimidate that bandit into surrendering if you’ve recently killed his friends.
 * **Deceive** - Tell a lie or perform an act. This Check is made against the Perceive of listeners or onlookers to determine if they find your words or actions believable. Failure means that they know something fishy is afoot, but may not know exactly what.
 * **Endure** - Prevent your physical body from being manipulated or moved with Actions such as Shove or Trip, and resist the effects of poisons and diseases. Endure can also be used as a Task when attempting to perform a strenuous activity over long stretches of time, such as marathon running or holding your breath.
 * **Shove** - Push a Target within your Reach away from you. If you beat the Target’s Endure Check, you move them up to 5 feet away from you. Forcing another Character to move does not count against their Speed nor does it allow other Characters to take Pot Shots against them. 
@@ -91,15 +87,14 @@ A Contest involves all characters rolling a relevant Check and comparing the res
 * **Ram** - Slam your vehicle or mount into an adjacent vehicle or mount, causing them to lose Control. If your opponent Reacts by Swerving, you reduce their Control by however much you beat their Check. If your opponent does not Swerve, they lose Control equal to your total Check.
 * **Resist** - Resist the effects of mental assault, such as Distract or Persuade. The GM could also call for a Resist Check to stay awake for a long period of time or remain focused despite distracting circumstances, or when you are Targeted with certain Contests.
 
-
 ## Move
-Moving encompasses all manner of movement, including traversing obstacles and challenging environmental situations. Simply walking or running does not require a Check. If there are obstacles in your way, such as walls, gaps, or bodies of water, you may have to make Move Checks to traverse them. These do not take a separate Action, they are simply made as part of your Move. The GM determines the Rank of the obstacle, which you must overcome with a Check, likely using the Athletics Skill. This follows the same structure as a Task (see below). If you succeed on the Check, you successfully traverse the terrain. If you fail, your Move stops and you cannot Move any further with that Action.
+Moving encompasses all manner of movement, including traversing obstacles and challenging environmental situations. Simply walking or running does not require a Check. If there are obstacles in your way, such as walls, gaps, or bodies of water, you may have to make Checks to traverse them. These do not take a separate Action, they are simply made as part of your Move. The GM determines the Rank of the obstacle, which you must overcome with a Check, likely using the Athletics Skill. This follows the same structure as a Task (see below). If you succeed on the Check, you successfully traverse the terrain. If you fail, your Move stops and you cannot Move any further with that Action.
 
 When you Move, you are assumed to be Facing in the direction you are Moving. If you wish to be Facing a different direction than the way you’re Moving, your Speed is reduced by half.
 
 You may choose your Facing at the start and end of your Turn. As a Reaction, you can change your Facing at any time.
 
-**Sneaking**: When you Move, you may attempt to do so Sneakily. At the end of your Movement, roll a Sneak Rank Check and compare it to the Perceive Ranks of those that could see or hear you. Characters whose Perceive you beat are Unaware of you and your Movement as long as you had Cover or Concealment throughout the Movement. If you Moved more than half your Speed while Sneaking, you are Distracted on the Sneak Check.
+**Sneaking**: When you Move, you may attempt to do so Sneakily. At the end of your Movement, roll a Sneak Rank Check and compare it to the Perceive Ranks of those that could see or hear you. Characters whose Perceive you beat are Unaware of you and your Movement as long as you had Cover or Concealment throughout the Movement. If you Moved more than half your Speed while Sneaking, you Low Roll the Sneak Check.
 
 You may also attempt to perform any other Action Sneakily. Simply roll the Sneak Check once you have completed the Action to determine who was Unaware.
 
