@@ -1,22 +1,16 @@
 ## CONDITIONS
 
-**Focus/Distracted** - roll two die, take higher or lower of the two. Mental condition.
+**Distracted** - Low Roll all Checks, and you cannot automatically succeed on Checks.
 
-**Unaware** - Cannot take Reactions, and Attacks while adjacent to the victim are all Layman Difficult.
+**Unaware** - Cannot take Reactions and other characters High Roll Attacks and Contests against you.
 
 **Immobilized** - Unable to move or change facing.
 
-**Prone** - on the ground, either lying prostrate or crouched. You have Cover against Ranged Attacks, but you have Disadvantage on Reactions and Reach Attacks.
+**Prone** - on the ground, either lying prostrate or crouched. You have Cover against Ranged Attacks, but you Low Roll all Reactions.
 
-**Staggered** - May only perform one Action during your Turn, and may not focus on.
+**Staggered** - May only perform one Action during your Turn.
 
 **Stunned** - You may not take any Actions or Reactions.
-
-**Tipsy (Alcohol)** - Distracted.
-
-**Drunk (Alcohol)** - Distracted and Staggered, but you have Adv on Resist Checks against fear or pain.
-
-**Corrupted** - Increase the Difficulty all First Aid checks to treat Injuries.
 
 **Vulnerable** - Upgrade the severity of the Injury received by one step. A Mild result becomes Serious, a Serious becomes Critical, and a Critical result becomes instant death.
 
