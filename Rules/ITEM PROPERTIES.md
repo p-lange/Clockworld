@@ -2,8 +2,7 @@
 Property | Description
 ---- | ----
 Piercing | Ignores Resistance.
-Ineffective | Targets are Resistant to the Injuries caused by this weapon. If the Target is already Resistant, it is immune instead.
-Crude | Ineffective against non-crude armor and weapons
+Crude | Non-Crude Armor that provides Resistance to this weapon's Injury Type instead grant Immune.
 Concealable | Can be hidden in your person and retrieved as an Incidental
 Silent | Using the weapon does reveal your actions or location to others if you are Sneaking.
 Non-lethal | Critical Injury results are downgraded to Serious.
@@ -13,7 +12,7 @@ Armor | Properties
 Noisy | Low Roll Sneak Checks related to staying quiet.
 Restrictive | Low Roll Acrobatics and Athletics.
 Heavy | Low Roll Dodge and Take Cover checks.
-Crude | Ineffective against non-crude weapons.
+Crude | Non-Crude weapons ignore the Resistance provided by this Armor.
 
 ### Ranged Weapon Properties	
 Property | Description
