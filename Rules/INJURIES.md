@@ -1,8 +1,8 @@
 ## INJURIES
-When you successfully Attack a Target, you may inflict an Injury. Assemble a damage pool to determine the severity of the injury inflicted.
+When you successfully Attack a Target, you may inflict an Injury. Assemble an Injury Pool to determine the severity of the Injury inflicted.
 
 ### Injury Pool
-The Injury Pool is determined by your Skill and the Target of your Attack.
+The Injury Pool is determined by your Skill.
 
 ### Rank	Base Pool
 * Layman: 1
