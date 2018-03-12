@@ -1,6 +1,6 @@
 ## Reach Weapons
 
-Name | Skill | Size | Injury | Type | Range | Properties
+Name | Skill | Size | Injury Dice | Injury Type | Range | Properties
 ---- | ---- | ---- | ---- | ---- | ---- | ------
 Sabre | Swords | Small | d10 | Sharp | Reach | 
 Claymore | Swords | Large | d8 | Sharp | Reach | 
@@ -46,3 +46,24 @@ Property | Description
 Spread | Long Range doesn't increase DC, instead downgrades Injury Die by (2) steps (example: d4 to d8).
 Silent | Using the weapon doesn't reveal your actions or location to others if you are sneaking.
 Jam | If you roll the Jam value on your Attack, the firearm becomes non-functional until you un-jam it as an Action.
+
+### Size
+The Size of the weapon determines whether it requires one or two hands to wield. A Small weapon requires one hand, while a Large weapon can be *held* in one hand, but requires two hands to *wield*.
+
+### Injury Dice
+The Injury Dice determines which dice you use for your Injury Pool.
+
+### Injury Type
+The Injury Type specifies what type of Injuries the weapon inflicts, such as sharp or ballistic. This usually only matters when dealing with Armor and other sources of Resistance.
+
+### Range
+How close you need to be to a Target to use the weapon.
+
+#### Reach
+A Reach weapon can only be used when within 5 feet of the intended Target.
+
+#### Close
+A Close Range weapon can be used against a Target within 30 feet.
+
+#### Long
+A Long Range weapon can be used against a Target within 500 feet.
