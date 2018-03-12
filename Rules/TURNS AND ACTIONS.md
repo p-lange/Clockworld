@@ -72,6 +72,8 @@ Novice | 2
 Adept | 3
 Master | 4
 
+**Pulling Punches -** a character may choose to roll fewer dice than his maximum, to a minimum of 1.
+
 >*For example, Mudo is an Adept with his Handguns. When he needs to roll for Injuries he inflicts with his trusty Revolver, he rolls 3d8; (3) for his Adpet Rank, and d8s for Revolvers. He rolls his dice and gets a (1), (5), and (7) - this means he inflicted a Critical Injury.*
 
 #### Types of Attacks
