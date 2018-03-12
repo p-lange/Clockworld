@@ -18,6 +18,15 @@ Small Improvised Weapons | Brawling | Small | d20 | Blunt or Sharp | Reach, Clos
 Large Improvised Weapons | Brawling | Large | d12 | Blunt or Sharp | Reach, Close | Ineffective against Armor.
 Body (Hands, Feet) | Brawling | Small | d20 | Blunt | Reach | Ineffective against Armor, Non-lethal. 
 
+### Reach Weapon Properties	
+Property | Description
+---- | ----
+Piercing | Ignores Resistance.
+Crude | Non-Crude Armor that provides Resistance to this weapon's Injury Type instead grant Immune.
+Concealable | Can be hidden in your person and retrieved as an Incidental
+Silent | Using the weapon does reveal your actions or location to others if you are Sneaking.
+Non-lethal | Critical Injury results are downgraded to Serious.
+
 ## Ranged Weapons
 
 Name | Skill | Size | Injury | Type | Range | Clip | Reload | Properties
@@ -28,3 +37,10 @@ Breach-loader | Shotguns | Large | d4 | Ballistic | Close | 1 | 1/Action | Jam(1
 Revolver | Handguns | Small | d8 | Ballistic | Long | 6 | 3/Action | Jam(1)
 Lever-action | Rifles | Large | d6 | Ballistic | Long | 4 | 2/Action | Jam(1)
 Bolt-action | Rifles | Large | d4 | Ballistic | Long | 1 | 1/Action | Jam(1)
+
+### Ranged Weapon Properties	
+Property | Description
+---- | ----
+Spread | Long Range doesn't increase DC, instead reduces damage by (2) grades
+Silent | Using the weapon doesn't reveal your actions or location to others if you are sneaking.
+Jam | If you roll the Jam value on your Attack, the firearm becomes non-functional until you un-jam it as an Action.
