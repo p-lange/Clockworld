@@ -1,7 +1,7 @@
 ## Player Turn and Threat Turn
 Within a Scenario, each side of the encounter - the Players, composed of the Player Characters (PCs) and their allies; and the Threats, composed of the villains, monsters, and hazards controlled by the GM, alternate performing their Actions. One side performs all of their Actions, in any order and intermixed with one another, then their foes perform theirs in a similar manner. This alternating continues until the Scenario is complete, such as when one side surrenders or is wiped out. The type of Scenario, constructed by the GM, will dictate how the Scenario can conclude.
 
-This alternating Turn structure begins with whichever side initiated the conflict. If this unclear, than the GM can call for a Contest between the most relevant Character(s) on each side to determine who goes first.
+This alternating Turn structure begins with whichever side initiated the conflict. If this unclear, then the GM can call for a Contest between the most relevant Character(s) on each side to determine who goes first.
 
 ## Round
 A Round is from any point in time until the start of the acting Character’s next Turn. For example, if during the Threat Turn a Player Character (PC) becomes Staggered for one Round, then the Staggered Condition would last until the start of the next Threat Turn.
