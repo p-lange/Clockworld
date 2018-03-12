@@ -10,7 +10,7 @@ Scrapmail | Bulk, Brim, Ace | Ballistic, Blunt, Sharp | Speed (-10ft), Heavy, Re
 Wooden Shield | Arm | Sharp, Blunt | Can grant Cover.
 Metal Shield | Arm | Sharp, Ballistic, Blunt | Speed (-5ft), can grant Cover.
 
-Armor | Properties	
+Property Name | Effects
 ---- | ----
 Noisy | Low Roll Sneak Checks.
 Restrictive | Low Roll all Reflexes Checks.
