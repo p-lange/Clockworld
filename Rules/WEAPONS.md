@@ -11,7 +11,7 @@ Sledge | Hammers | Large | d8 | Blunt | Reach | Sundering
 Lasso | Ropes | Large | - | - | Close
 Whip | Ropes | Small | d20 | Sharp | Close
 Garrote | Ropes | Small | d8 | Sharp | Reach |
-Staff | Polearms | Large | d12 | Blunt | Reach | Dual-wield or Reach (10ft)
+Staff | Polearms | Large | d12 | Blunt | Reach | Double-weapon
 Spear | Polearms | Small | d10 | Sharp | Reach, Close | Throwable
 Dagger | Knives | Small | d12 | Sharp | Reach, Close | Throwable
 Small Improvised Weapons | Brawling | Small | d20 | Blunt or Sharp | Reach, Close | Ineffective against Armor.
@@ -28,6 +28,7 @@ Silent | Using the weapon does reveal your actions or location to others if you 
 Non-lethal | Critical Injury results are downgraded to Serious.
 Sundering | Objects are Vulnerable to this weapon's Attacks.
 Throwable | Can also be used to make Ranged Attacks.
+Double-weapon | You may take the Attack Action twice on your turn using this weapon, striking once with each end.
 
 ## Ranged Weapons
 
