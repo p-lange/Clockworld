@@ -7,13 +7,6 @@ Concealable | Can be hidden in your person and retrieved as an Incidental
 Silent | Using the weapon does reveal your actions or location to others if you are Sneaking.
 Non-lethal | Critical Injury results are downgraded to Serious.
 
-Armor | Properties	
----- | ----
-Noisy | Low Roll Sneak Checks related to staying quiet.
-Restrictive | Low Roll all Reflexes and Athletics Checks.
-Heavy | Low Roll Dodge and Take Cover checks.
-Crude | Non-Crude weapons ignore the Resistance provided by this Armor.
-
 ### Ranged Weapon Properties	
 Property | Description
 ---- | ----
