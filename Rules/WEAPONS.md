@@ -5,7 +5,7 @@ Name | Skill | Size | Injury | Type | Range | Properties
 Sabre | Swords | Small | d10 | Sharp | Reach | 
 Claymore | Swords | Large | d8 | Sharp | Reach | 
 Hatchet | Axes | Small | d10 | Sharp | Reach, Close | Throwable
-Felling Axe | Axes | Large | d8 | Sharp | Reach | Maiming
+Felling Axe | Axes | Large | d8 | Sharp | Reach | 
 Club | Hammers | Small | d10 | Blunt | Reach | Sundering
 Sledge | Hammers | Large | d8 | Blunt | Reach | Sundering
 Lasso | Ropes | Large | - | - | Close
@@ -26,6 +26,8 @@ Crude | Non-Crude Armor that provides Resistance to this weapon's Injury Type in
 Concealable | Can be hidden in your person and retrieved as an Incidental
 Silent | Using the weapon does reveal your actions or location to others if you are Sneaking.
 Non-lethal | Critical Injury results are downgraded to Serious.
+Sundering | Objects are Vulnerable to this weapon's Attacks.
+Throwable | Can also be used to make Ranged Attacks.
 
 ## Ranged Weapons
 
@@ -33,7 +35,7 @@ Name | Skill | Size | Injury | Type | Range | Clip | Reload | Properties
 ---- | ---- | ---- | ---- | ---- | ---- | ------ | ----- | -----
 Shortbow | Bows | Large | d10 | Sharp | Long | - | Incidental | 
 Crossbow | Bows | Large | d8 | Sharp | Long | 1 | 1/Action |
-Breach-loader | Shotguns | Large | d4 | Ballistic | Close | 1 | 1/Action | Jam(1)
+Breach-loader | Shotguns | Large | d4 | Ballistic | Long | 1 | 1/Action | Jam(1), Spread
 Revolver | Handguns | Small | d8 | Ballistic | Long | 6 | 3/Action | Jam(1)
 Lever-action | Rifles | Large | d6 | Ballistic | Long | 4 | 2/Action | Jam(1)
 Bolt-action | Rifles | Large | d4 | Ballistic | Long | 1 | 1/Action | Jam(1)
@@ -41,6 +43,6 @@ Bolt-action | Rifles | Large | d4 | Ballistic | Long | 1 | 1/Action | Jam(1)
 ### Ranged Weapon Properties	
 Property | Description
 ---- | ----
-Spread | Long Range doesn't increase DC, instead reduces damage by (2) grades
+Spread | Long Range doesn't increase DC, instead downgrades Injury Die by (2) steps (example: d4 to d8).
 Silent | Using the weapon doesn't reveal your actions or location to others if you are sneaking.
 Jam | If you roll the Jam value on your Attack, the firearm becomes non-functional until you un-jam it as an Action.
