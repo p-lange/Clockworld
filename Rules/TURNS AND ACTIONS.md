@@ -48,7 +48,7 @@ The Brim includes the extremities of a character, such as the arms and legs. The
 
 The Ace includes any of the most critical, vital, and vulnerable parts of the body, such as the head, eyes, heart, or groin. Striking the Ace is very deadly, but much harder to hit.
 
-## Range
+#### Range
 The distance between you and the Target determines the base Rank you have to beat with your Check. Different weapons have different Ranges - some can only strike foes within your Reach (5 feet, normally), while others can fire great distances.
 
 * Reach: Layman
@@ -60,12 +60,24 @@ This Rank is then modified by the Target (Bulk, Brim, or Ace), as well as by the
 
 If the Target is a Character, it can use a Reaction to attempt to defend itself from your Attack, such as Block, Dodge, or Take Cover. See the section on Reactions later in this chapter.
 
-## Attack
-Reach Attack - Strike a foe within your Reach (generally 5-feet) using a weapon, object, or body part. Describe the assault, including where and how you attempt to strike your victim: in the Bulk, Brim, or Ace. This determines the Difficulty and potential deadliness of the blow. Block and Dodge can be used to React to Reach Attacks.
+#### Injury Pool
+When you successfully Attack a Target, you may inflict an Injury. Assemble an Injury Pool to determine the severity of the Injury inflicted. You roll all the dice in the pool - if you have any results of (1) on your Injury Roll, then you inflict a Critical Injury. A result of (2) or (3) inflicts a Serious Injury. Any other result is a Mild Injury.
 
-You may use a Reach Attack as a Reaction when a foe within your Reach attempts to Move. They may, in turn, Dodge or Block as normal.
+The type of dice used in the pool is determined by your weapon, while the number of dice is determined by your Rank in the associated Skill.
 
-Ranged Attack - Fire, throw, or launch a Ranged Weapon at a Target within the maximum Range of the weapon. Describe the assault, including where and how you attempt to strike your victim: in the Bulk, Brim, or Ace. This determines the Difficulty and potential deadliness of the Attack. The further away the Target, the harder the Difficulty. Blocking with a shield and Take Cover can be used to React to Ranged Attacks.
+Skill Rank | Base Pool
+--- | ---
+Layman | 1
+Novice | 2
+Adept | 3
+Master | 4
+
+>*For example, Mudo is an Adept with his Handguns. When he needs to roll for Injuries he inflicts with his trusty Revolver, he rolls 3d8; (3) for his Adpet Rank, and d8s for Revolvers. He rolls his dice and gets a (1), (5), and (7) - this means he inflicted a Critical Injury.*
+
+#### Types of Attacks
+**Reach Attack** - Strike a foe within your Reach (generally 5-feet) using a weapon, object, or body part. Describe the assault, including where and how you attempt to strike your victim: in the Bulk, Brim, or Ace. This determines the Difficulty and potential deadliness of the blow. Block and Dodge can be used to React to Reach Attacks.
+
+**Ranged Attack** - Fire, throw, or launch a Ranged Weapon at a Target within the maximum Range of the weapon. Describe the assault, including where and how you attempt to strike your victim: in the Bulk, Brim, or Ace. This determines the Difficulty and potential deadliness of the Attack. The further away the Target, the harder the Difficulty. Blocking with a shield and Take Cover can be used to React to Ranged Attacks.
 
 If you’re within the Reach of any hostile creatures when you make a Ranged Attack, you suffer Disadvantage on the roll.
 
