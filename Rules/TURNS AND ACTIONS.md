@@ -44,9 +44,9 @@ Attacks are the primary method for inflicting Injuries on your foes. To Attack, 
 
 The Bulk is the center-of-mass of a character, the largest, most prominent part. On humans or human-shaped creatures, this would be the chest.
 
-The Brim includes the extremities of a character, such as the arms and legs. These are more vulnerable than the Bulk, and Injuries to them can leave a Character crippled, though the Brim is harder to hit than the Bulk.
+The Brim includes the extremities of a character, such as the arms and legs. Serious or Critical Injuries inflicted to a limb cause the limb to be non-functional until the Injury has been treated. 
 
-The Ace includes any of the most critical, vital, and vulnerable parts of the body, such as the head, eyes, heart, or groin. Striking the Ace is very deadly, but much harder to hit.
+The Ace includes any of the most critical, vital, and vulnerable parts of the body, such as the head, eyes, heart, or groin. Striking the Ace is very deadly, as it is a Vulnerable location.
 
 #### Range
 The distance between you and the Target determines the base Rank you have to beat with your Check. Different weapons have different Ranges - some can only strike foes within your Reach (5 feet, normally), while others can fire great distances.
@@ -72,7 +72,7 @@ Novice | 2
 Adept | 3
 Master | 4
 
-**Pulling Punches -** a character may choose to roll fewer dice than his maximum, to a minimum of 1.
+**Pulling Punches** - a character may choose to roll fewer dice than his maximum, to a minimum of 1.
 
 >*For example, Mudo is an Adept with his Handguns. When he needs to roll for Injuries he inflicts with his trusty Revolver, he rolls 3d8; (3) for his Adpet Rank, and d8s for Revolvers. He rolls his dice and gets a (1), (5), and (7) - this means he inflicted a Critical Injury.*
 
@@ -83,7 +83,7 @@ Master | 4
 
 If you’re within the Reach of any hostile creatures when you make a Ranged Attack, you suffer Disadvantage on the roll.
 
-**Area Attack** - 
+**Area Attack** - Explosions and other sweeping effects cause Area Attacks. The Attack Roll is applied to everyone within the area, who can only use Take Cover to try to mitigate the effects. 
 
 ## Contests
 Contests are generally offensive Actions that can hinder, distract, or manipulate foes without directly causing Injury. They run the gamut from physical manipulation, such as Shove, to more subtle manipulation, such as Persuade. 
