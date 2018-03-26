@@ -12,12 +12,12 @@ With nothing but a few scraps of cloth and one minute, you recover from all of y
 
 ## Serious Injuries
 Gashes, lacerations, bleeding cuts, and badly sprained or even broken limbs - Serious Injuries are dangerous and potentially life-threatening. Being Seriously Injured can cause you to pass out in a matter of minutes, or even die.
-### Recovering from Serioues Injuries
+#### Recovering from Serioues Injuries
 After a 8 hours of medical care, such as bandaging, splints, and stiches, your Serious Injuries are removed. 
 
 ## Critical Injuries
 Gut shots, gushing wounds, and severed limbs - Critical Injuries are a matter of life or death. Without immediate attention, being Critically Injured are very likely to result in death via bleeding out, internal damage, or trauma.
-### Recovering from Critical Injuries
+#### Recovering from Critical Injuries
 After 5 days of medical care, you recover from your Critical Injuries.
 
 **Instant Death -** If you suffer a Critical Injury to a Vulnerable spot on your body, you are killed immediately.
