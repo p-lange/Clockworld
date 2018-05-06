@@ -109,6 +109,8 @@ You may also attempt to perform any other Action Sneakily. Simply roll the Sneak
 Making an Attack automatically reveals you unless the weapon has the Silent Property.
 
 ## Tasks
+Tasks cover interactions with objects and the environment. From picking a lock to tracking a coyote through the desert, Tasks cover a wide variety of situations.
+
 A Task is a Check rolled against a Rank. The Rank of a Task determines how hard it is for a Character to succeed on it, and itself is generally determined by the complexity or difficulty of the activity you are attempting to perform.
 
 In order to succeed on a Task, you must beat the number associated with the Task’s Rank, or be of higher Skill Rank than the Task Rank.
@@ -121,6 +123,9 @@ Adept | 7 | Master
 Master | 9 | -
 Inhuman | 11 | -
 Legendary | 13 | -
+
+### Lengthy Tasks
+Some Tasks may take more than the few moments to complete, as determined by the GM. The lock on a safe might take several minutes to complete or tracking a criminal through the hills might take several hours. You roll the Check for a Lengthy Task at the end of the specified time period; during that time, you can do nothing else but perform the Task. If you wish to focus on completing a Lengthy Task in order to High Roll your Check, double the time it would take to complete.
 
 * **Dismantle** - Take apart or otherwise make non-functional a mechanical object, such as the lock on a door, the wheel of a hubcap, or a firearm. The GM may determine that this is a Lengthy Task, requiring several Actions to complete.  
 * **Steady** - Regain Control over a vehicle or mount you are riding. The Difficulty of the Check is determined by how hard the path is you are travelling on or other environmental circumstances. For every point you beat the Difficulty, increase your Control by (1).
