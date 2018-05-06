@@ -21,7 +21,7 @@ On your Turn, you may perform up to two different Actions and any number of Inci
 **_Focusing on an Action_**
 Instead of taking two Actions, you can focus on one Action. Focusing on an Action lets you High Roll any Checks you make for that Action. Some Actions, such as Move and Defend, gain additional benefits from focusing on them.
 
-There are (5) types of Actions you can perform, and each Action has at least one Upgraded version.
+There are (5) types of Actions you can perform.
 
 * **Attack** - make a Weapon Attack. You can perform two Attack Actions on your Turn if each Attack uses a different limb and weapon.
 * **Contest** - perform a Contest, such as Disarming or Distracting a foe.
