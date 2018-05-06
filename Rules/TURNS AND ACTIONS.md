@@ -6,15 +6,6 @@ This alternating Turn structure begins with whichever side initiated the conflic
 ## Round
 A Round is from any point in time until the start of the acting Character’s next Turn. For example, if during the Threat Turn a Player Character (PC) becomes Staggered for one Round, then the Staggered Condition would last until the start of the next Threat Turn.
 
-## Incidentals	
-Not everything a character can do requires an Action or is tied to a Skill. Drawing a weapon, kicking over an adjacent table for Cover, speaking a few sentences, or opening a door are all examples of Incidentals. A particular activity is Incidental if it could be accomplished with a quick movement of a limb or with very little effort.
- 
-You can perform as many Incidentals on your Turn as you like, within reason. A Turn lasts about 6 seconds, so anything that would require more time than that should not be possible. The GM should attempt to limit the length of in-character conversations during a Scenario. Clockworld is meant to be played with a fast pace, moving the action forward. Characters should only have time to speak a few quick lines to one another in the heat of battle.
- 
-Additionally, manipulating an object in the environment, such as a door, a table, or a weapon in your holster, is only considered Incidental the first time you interact with it. Any additional interactions with that particular object would require the use of an Action.
- 
-> _For example, Mudo gets into a firefight with a gang of bandits. Bullets start flying through the tavern where Mudo was enjoying a game of poker. On his Turn, Mudo kicks over the poker table (Incidental), draws his revolver (Incidental) and fires it at one of the bandits (Action). However, if Mudo wished to re-holster his firearm or move the table to grant Cover from a different angle on that same Turn, it would no longer be Incidental and would require his second Action._
-
 ## TURN
 On your Turn, you may perform up to two different Actions and any number of Incidentals, within reason. You may take your Actions before or after those of the other Characters that share your Turn. For example, you may perform a Move, then an ally could make an Attack, then you could make an Attack. At any point during your Turn, you may also choose your Facing. 
 
@@ -150,6 +141,15 @@ In the case of an Attack, the Attacker must not only succeed on its Attack Check
 * **Pot Shot** - Reacts to Moves within your Reach. Make a Reach Attack against the Character before it starts to Move. It can React with a Dodge or Block, as normal for Reach Attacks.
 * **Swerve** - Reacts to being Rammed or sudden obstacles or hazards. When you would collide with an obstacle, you may Swerve to avoid it (if it would be possible to do so). The Difficulty of the Swerve Check is determined by the obstacle or hazard. Swerve is also used to React to an enemy attempting to Ram you.
 * **Tumble** - Reacts to a fall. This is a Rank Check against a Difficulty based on how far you fell. 
+
+## Incidentals	
+Not everything a character can do requires an Action or is tied to a Skill. Drawing a weapon, kicking over an adjacent table for Cover, speaking a few sentences, or opening a door are all examples of Incidentals. A particular activity is Incidental if it could be accomplished with a quick movement of a limb or with very little effort.
+ 
+You can perform as many Incidentals on your Turn as you like, within reason. A Turn lasts about 6 seconds, so anything that would require more time than that should not be possible. The GM should attempt to limit the length of in-character conversations during a Scenario. Clockworld is meant to be played with a fast pace, moving the action forward. Characters should only have time to speak a few quick lines to one another in the heat of battle.
+ 
+Additionally, manipulating an object in the environment, such as a door, a table, or a weapon in your holster, is only considered Incidental the first time you interact with it. Any additional interactions with that particular object would require the use of an Action.
+ 
+> _For example, Mudo gets into a firefight with a gang of bandits. Bullets start flying through the tavern where Mudo was enjoying a game of poker. On his Turn, Mudo kicks over the poker table (Incidental), draws his revolver (Incidental) and fires it at one of the bandits (Action). However, if Mudo wished to re-holster his firearm or move the table to grant Cover from a different angle on that same Turn, it would no longer be Incidental and would require his second Action._
 
 ```
 Every 10 ft you fall, receive 1 random injury.
