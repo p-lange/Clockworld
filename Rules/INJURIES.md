@@ -13,12 +13,12 @@ With nothing but a few scraps of cloth and one minute, you recover from all of y
 ## Serious Injuries
 Gashes, lacerations, bleeding cuts, and badly sprained or even broken limbs - Serious Injuries are dangerous and potentially life-threatening. Being Seriously Injured can cause you to pass out in a matter of minutes, or even die.
 #### Recovering from Serioues Injuries
-After a 8 hours of medical care, such as bandaging, splints, and stiches, your Serious Injuries are removed. 
+After two nights of Rest, or one night of Medical Rest, such as bandaging, splints, and stiches, your Serious Injuries are removed. 
 
 ## Critical Injuries
 Gut shots, gushing wounds, and severed limbs - Critical Injuries are a matter of life or death. Without immediate attention, being Critically Injured are very likely to result in death via bleeding out, internal damage, or trauma.
 #### Recovering from Critical Injuries
-After 5 days of medical care, you recover from your Critical Injuries.
+After 10 nights of Rest, or 5 days of Medical Rest, you recover from your Critical Injuries.
 
 **Instant Death -** If you suffer a Critical Injury to a Vulnerable spot on your body, you are killed immediately.
 
@@ -28,7 +28,7 @@ Some Targets will be armored or more durable than normal, which makes them Resis
 If a Target is Resistant to the type of Injury you are receiving, reduce its severity by one grade. Critical Injuries become Serious, Serious become Mild, and Mild are negated.
 
 ## Recovering from Injuries
-The Difficulty of any Rank Check to treat Injuries increases the more severe the Injuries are. Using a Medicine Kit reduces the Difficulty by (1).
+The Difficulty of any Rank Check to treat Injuries increases the more severe the Injuries are. Using a Medicine Kit reduces the Difficulty by (1). Medical Rest can be accomplished by spending your Rest in the care of a physician or healer, and significantly expedites the recovery process. Spending all of your time, not just your sleeping hours, in counts as (2) nights of Rest for the purposes of recovery from Injuries.
 
 ## Going into Shock
 While you are Seriously or Critically Injured, you are at risk of going into Shock. At the end of every minute (Serious) or Turn (Critical) that you are Injured, you must make an Endure Rank Check. Failing three of these checks causes you to go into Shock until you either die or become Stable. When you go into Shock, you fall Prone and become Stunned and At the Mercy of others. After going into Shock, if you fail (3) more Endure Rank Checks, you die.
