@@ -97,7 +97,7 @@ Skill | Actions
 ------- | -------
 Acuity | Perceive, Track
 Bravado | Distract, Persuade
-Devices | Crack, Dismantle
+Deft Hands | Crack, Dismantle, Swipe, Disarm*
 Discipline | Endure, Resist
 First Aid | Bandage
 Guile | Deceive, Distract, Persuade
@@ -108,7 +108,7 @@ Guile | Deceive, Distract, Persuade
 
 **Discipline** - this Skill represents your hardened willpower, your resolution, and your bravery.
 
-**Devices** - this Skill encompasses practical, technical acumen for mechanical devices such as automobiles, complex locks, and Gadgets, allowing you to dismantle or hotwire such devices.
+**Deft Hands** - This Skill represents the manual dexterity of your hands -- their speed and coordination. It governs your ability to pocket small objects with no one noticing, snatch something from out of someone's hand, dismantle a car wheel, or crack through the lock on a safe. Deft Hands can only be used to Disarm small, 1-handed objects, such as a key, knife, or revolver.
 
 **First Aid** - this Skill ecompasses simple field-dressing and emergency medical services, particularly Bandaging dying allies. First Aid generally requires the use of a First Aid Kit, but you can try to cobble together makeshift tourniquets and bandages, if need be.
 
