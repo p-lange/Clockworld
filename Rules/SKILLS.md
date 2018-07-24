@@ -69,8 +69,8 @@ Thrown Weapons | Area Attack, Ranged Attack
 
 **Thrown Weapons** - the Skill associated with small, throwable weapons such as knives, hatchets, or improvised thrown weapons such as plates or tableware.
 
-## Exploration
-**_Exploration Skills are used for running around the battlefield, surviving hazards and attacks, and traveling through the world._**
+## Physical Prowess
+**_Physical Prowess Skills are used for running around the battlefield, surviving hazards and attacks, and traveling through the world._**
 
 Skill | Actions
 ------- | -------
@@ -90,8 +90,8 @@ Riding | Accelerate, Ram, Steady, Swerve
 
 **Riding** - this Skill is used when mounted on a horse or similar creature, or when controlling a vehicle pulled by one. Simply riding a horse as a form of transportation does not require a Check.
 
-## Interaction
-**_Interaction Skills give you the tools to lie, intimidate, and navigate the social world, as well as your mental training._**
+## Mental Prowess
+**_Mental Prowess Skills give you the tools to lie, intimidate, and navigate the social world, as well as your mental training._**
 
 Skill | Actions
 ------- | -------
