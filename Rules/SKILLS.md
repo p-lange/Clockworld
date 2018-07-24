@@ -97,7 +97,7 @@ Skill | Actions
 ------- | -------
 Acuity | Perceive, Track
 Bravado | Distract, Persuade
-Deft Hands | Crack, Dismantle, Swipe, Disarm*
+Deft Hands | Crack, Dismantle, Sneak*, Disarm*
 Discipline | Endure, Resist
 First Aid | Bandage
 Guile | Deceive, Distract, Persuade
@@ -108,7 +108,7 @@ Guile | Deceive, Distract, Persuade
 
 **Discipline** - this Skill represents your hardened willpower, your resolution, and your bravery.
 
-**Deft Hands** - This Skill represents the manual dexterity of your hands -- their speed and coordination. It governs your ability to pocket small objects with no one noticing, snatch something from out of someone's hand, dismantle a car wheel, or crack through the lock on a safe. Deft Hands can only be used to Disarm small, 1-handed objects, such as a key, knife, or revolver.
+**Deft Hands** - This Skill represents the manual dexterity of your hands -- their speed and coordination. It governs your ability to pocket small objects with no one noticing, snatch something from out of someone's hand, dismantle a car wheel, or crack through the lock on a safe. Deft Hands can only be used to Disarm small, 1-handed objects, such as a key, knife, or revolver. Deft Hands can only bused to Sneak when you are attempting to perform a sutble Action without being noticed, like taking a small item from someone's pocket without them noticing, producing a card from within your sleeve, or making a subtle gesture that only a friend will notice.
 
 **First Aid** - this Skill ecompasses simple field-dressing and emergency medical services, particularly Bandaging dying allies. First Aid generally requires the use of a First Aid Kit, but you can try to cobble together makeshift tourniquets and bandages, if need be.
 
