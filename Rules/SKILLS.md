@@ -75,13 +75,13 @@ Thrown Weapons | Area Attack, Ranged Attack
 Skill | Actions
 ------- | -------
 Athletics | Endure, Move, Take Cover
-Deft Hands | Crack, Dismantle, Sneak*, Disarm*
+Deft Hands | Crack, Dismantle, Sneak*, Disarm*, Bandage
 Might | Break, Endure, Heft, Shove
 Reflexes | Dodge, Sneak, Take Cover, Tumble
 
 **Athletics** - this Skill encompasses physical training for endurance, running, climbing, and other manner of athleticism. An Athletic person would be lean, strong, and fit. Athletics grants you mobility and the necessary endurance to keep chugging for extended periods of time.
 
-**Deft Hands** - This Skill represents the manual dexterity of your hands -- their speed and coordination. It governs your ability to pocket small objects with no one noticing, snatch something from out of someone's hand, dismantle a car wheel, or crack through the lock on a safe. Deft Hands can only be used to Disarm small, 1-handed objects, such as a key, knife, or revolver. Deft Hands can only bused to Sneak when you are attempting to perform a sutble Action without being noticed, like taking a small item from someone's pocket without them noticing, producing a card from within your sleeve, or making a subtle gesture that only a friend will notice.
+**Deft Hands** - This Skill represents the manual dexterity of your hands -- their speed and coordination. It governs your ability to pocket small objects with no one noticing, snatch something from out of someone's hand, dismantle a car wheel, or crack through the lock on a safe. Deft Hands can only be used to Disarm small, 1-handed objects, such as a key, knife, or revolver. Deft Hands can only bused to Sneak when you are attempting to perform a sutble Action without being noticed, like taking a small item from someone's pocket without them noticing, producing a card from within your sleeve, or making a subtle gesture that only a friend will notice. Lastly, you can use your Deft Hands to Bandage in the heat of combat.
 
 **Might** - this Skill ecompasses mass, physical strength, and internal fortitude. A Mighty person would be bulky, buff, and powerful. Might is useful for pushing your way through obstacles and staying conscious while bleeding out.
 
