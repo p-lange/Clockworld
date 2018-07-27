@@ -123,9 +123,6 @@ Master | 9 | -
 Inhuman | 11 | -
 Legendary | 13 | -
 
-### Lengthy Tasks
-Some Tasks may take more than the few moments to complete, as determined by the GM. The lock on a safe might take several minutes to complete or tracking a criminal through the hills might take several hours. You roll the Check for a Lengthy Task at the end of the specified time period; during that time, you can do nothing else but perform the Task. If you wish to focus on completing a Lengthy Task in order to High Roll your Check, double the time it would take to complete.
-
 * **Dismantle** - Take apart or otherwise make non-functional a mechanical object, such as the lock on a door, the wheel of a hubcap, or a firearm. The GM may determine that this is a Lengthy Task, requiring several Actions to complete.  
 * **Crack** - Bypass the normal access to a locked or keyed object or machine, such as a safe or an automobile. If you succeed, you gain access or can control the object or machine. The GM may determine that this is a Lengthy Task, requiring several Actions to complete.
 * **Break** - Destroy or seriously damage an unattended object, such as a door or a window. 
@@ -134,6 +131,9 @@ Some Tasks may take more than the few moments to complete, as determined by the 
 * **Escape** - Slip out of being Pinned, or avoid being Pinned in the first place as a Reaction. If you are Pinned with ropes or bindings, the Difficulty is against the Rank of the person who tied you up, or the Rank of the bindings (whichever is higher).
 * **Track** - Locate and follow the signs of another creature’s movements. The Difficulty is highly variable, set by the GM. The freshness of the tracks and the type of material they were made in all increase the Difficulty.
 * **Perceive** - Notice something is amiss, detect lies, and find hidden items or creatures. For finding hidden objects or other non-living things, the GM sets the Difficulty of this Rank Check. When a character attempts to Deceive you, you use Perceive to contest it. Characters attempting to Sneak by you roll against your Rank in Perceive.
+
+### Lengthy Tasks
+Some Tasks may take more than the few moments to complete, as determined by the GM. The lock on a safe might take several minutes to complete or tracking a criminal through the hills might take several hours. You roll the Check for a Lengthy Task at the end of the specified time period; during that time, you can do nothing else but perform the Task. If you wish to focus on completing a Lengthy Task in order to High Roll your Check, double the time it would take to complete.
 
 ## Reactions
 A Reaction is a special reactive or defensive ability that is done in response to the Actions of others, such as Blocking, Dodging, or Taking Cover. At the start of your Turn, you have (2) Reactions that you can use at any time before the start of your next Turn. You may only React with a single Reaction to any given Action, however multiple Characters can each use a Reaction in response to a single Action. A Reaction occurs before the Action that triggers it, possibly interfering with or preventing the original Action from succeeding.
