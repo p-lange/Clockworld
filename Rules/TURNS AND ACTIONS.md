@@ -126,7 +126,7 @@ Legendary | 13 | -
 * **Dismantle** - Take apart or otherwise make non-functional a mechanical object, such as the lock on a door, the wheel of a hubcap, or a firearm. The GM may determine that this is a Lengthy Task, requiring several Actions to complete.  
 * **Crack** - Bypass the normal access to a locked or keyed object or machine, such as a safe or an automobile. If you succeed, you gain access or can control the object or machine. The GM may determine that this is a Lengthy Task, requiring several Actions to complete.
 * **Break** - Destroy or seriously damage an unattended object, such as a door or a window. 
-* **Bandage** - Stabilize a Character that is Seriously or Critically Injured. The Rank is Adept for Seriously Injured and Master for Critically Injured. Using a First Aid Kit reduces the Rank by (1).
+* **Stabilize** - Stabilize a Character that is Seriously or Critically Injured. The Rank is Adept for Seriously Injured and Master for Critically Injured. Using a First Aid Kit reduces the Rank by (1).
 * **Heft** - Lift, push, or carry something very heavy, such as an unconscious person or a large crate. If you succeed on the Check, you can lift the object and carry it with you as you Move.
 * **Escape** - Slip out of being Pinned, or avoid being Pinned in the first place as a Reaction. If you are Pinned with ropes or bindings, the Difficulty is against the Rank of the person who tied you up, or the Rank of the bindings (whichever is higher).
 * **Track** - Locate and follow the signs of another creature’s movements. The Difficulty is highly variable, set by the GM. The freshness of the tracks and the type of material they were made in all increase the Difficulty.
