@@ -1,37 +1,31 @@
 ## INJURIES
-Throughout play, Players and Threats alike will suffer Injuries. Injuries come in three grades of severity: Mild, Serious, and Critical. The more serious the Injury, the more debilitating it is and the more likely you are to go into Shock and die (see below).
+Throughout play, Your character will suffer Injuries. [I think maybe we don't need to talk about threat injuries here. We're telling the players how to play the game. - Daniel] Injuries come in three degrees of severity: Mild, Serious, and Critical. The higher the degree of the Injury, the more likely your character will go into Shock and die (see Going into Shock below).
 
-A Player can suffer from (7) total Injuries without dying - that 8th Injury means death. There are (4) Mild Injury slots, (2) Serious, and (1) Critical. Once all the Injury boxes are filled of one type, any further Injuries of that type are filled in to the next most severe Injury boxes. Regardless of what the Injury Roll result said, the box that is filled in is what the severity of the Injury becomes.
+There are seven total injury slots: (4) Mild, (2) Serious, and (1) Critical. Once a character has 4 mild injuries, any further mild injury results are marked as serious injuries. Once a character has 2 serious inuries, any further serious injuries are marked as critical injuries. Once a character has a critical injuy, any further critical injuries kill that character.
 
->*For example, Mudo has taken quite a beating, having taken (4) Mild Injuries from thugs in a bar brawl. A thug punches him again, inflicting another Mild Injury. However, since there are no more spots for Mild Injuries, it fills in a Serious Injury slot on his sheet, and he'll need to start making Shock Checks just like if he had suffered an actual Serious Injury.*
+>*For example, Mudo has taken quite a beating, having taken (4) Mild Injuries from thugs in a bar brawl. A thug punches him again, inflicting another Mild Injury. However, since there are no more slots for Mild Injuries, it fills in a Serious Injury slot on his sheet, and he'll need to start making Shock Checks just like if he had suffered an actual Serious Injury.*
+
+[Are there types of injuries that we need to describe? What does it mean to have a broken limb, etc.? Where will you talk about how to determine and describe injuries to players?- Daniel]
 
 ## Mild Injuries
-Scrapes, flesh wounds, bruises, and minor cuts - these are all instances of a Mild Injury. Being Mildly Injured doesn't have any negative effects, but suffer too many such Injuries and you can still die.
+Scrapes, flesh wounds, bruises, and minor cuts. A mild inury does not directly affect your character.
 #### Recovering from Mild Injuries
-With nothing but a few scraps of cloth and one minute, you recover from all of your Mild Injuries, patching and bandaging them up. 
+With one minute of unimpeded rest, your character recovers from all mild injuries. 
 
 ## Serious Injuries
-Gashes, lacerations, bleeding cuts, and badly sprained or even broken limbs - Serious Injuries are dangerous and potentially life-threatening. Being Seriously Injured can cause you to pass out in a matter of minutes, or even die.
-#### Recovering from Serioues Injuries
-After two nights of Rest, or one night of Medical Rest, such as bandaging, splints, and stiches, your Serious Injuries are removed. 
+Gashes, lacerations, bleeding cuts, and badly sprained or even broken limbs. When Seriously Injured, your character goes into shock and you must make Endure Rank Checks every minute.
+#### Recovering from Serious Injuries
+After two nights of Rest, or one night of Medical Rest - such as bandaging, splints, and stiches - your character recovers from their Serious Injuries. 
 
 ## Critical Injuries
-Gut shots, gushing wounds, and severed limbs - Critical Injuries are a matter of life or death. Without immediate attention, being Critically Injured are very likely to result in death via bleeding out, internal damage, or trauma.
+Gut shots, gushing wounds, and severed limbs. When critically injured, your character goes into shock and you must make Endure Rank Checks at the end of evvery player turn.
 #### Recovering from Critical Injuries
-After 10 nights of Rest, or 5 days of Medical Rest, you recover from your Critical Injuries.
+After 10 nights of Rest, or 5 days of Medical Rest, your character recovers from their Critical Injury.
 
-**Instant Death -** If you suffer a Critical Injury to a Vulnerable spot on your body, you are killed immediately.
+**Instant Death -** If your charcacter suffers a Critical Injury to a Vulnerable spot on their body, they are killed immediately.
 
-## Armor and Resistance
-Some Targets will be armored or more durable than normal, which makes them Resistant to some types of Injury. Generally, Armor will specify what parts of the body are protected and against what types of weapons. For example, a metal shield is Resistant to sharp weapons, while a padded helmet might be Resistant to blunt weapons.
-
-If a Target is Resistant to the type of Injury you are receiving, reduce its severity by one grade. Critical Injuries become Serious, Serious become Mild, and Mild are negated.
-
-## Recovering from Injuries
-The Difficulty of any Rank Check to treat Injuries increases the more severe the Injuries are. Using a Medicine Kit reduces the Difficulty by (1). Medical Rest can be accomplished by spending your Rest in the care of a physician or healer, and significantly expedites the recovery process. Spending all of your time, not just your sleeping hours, in counts as (2) nights of Rest for the purposes of recovery from Injuries.
-
-## Going into Shock
-While you are Seriously or Critically Injured, you are at risk of going into Shock. At the end of every minute (Serious) or Turn (Critical) that you are Injured, you must make an Endure Rank Check. Failing three of these checks causes you to go into Shock until you either die or become Stable. When you go into Shock, you fall Prone and become Stunned and At the Mercy of others. After going into Shock, if you fail (3) more Endure Rank Checks, you die.
+## Going into Shock and Dying
+While your character is in Shock, you must make Endure Rank Checks to avoid Dying. You must make these checks every minute if your character is Seriously Injured or at the end of every Player Turn if your character is Critically Injured. If you fail this check three times, your character falls unconscious and starts Dying. While Dying, you must make an Endure Rank Check at the end of each Player turn. If you fail this check three times, your character dies.
 
 The difficulty of the Endure Rank Check depends on how severe your Injuries are:
 
@@ -41,9 +35,9 @@ Severely Injured | Adept
 Critically Injured | Master
 
 ### Stabilizing
-While you are Seriously or Critically Injured, the Stabilize Task can be used to prevent you from going into Shock. The Difficulty increases with the severity of your Injuries (see below). If the Stabilize Task succeeds, you no longer need to make Endure Rank Checks to avoid going into Shock and any failures on the Endure Checks are erased. Receiving any new Injury after becoming Stablized causes you to resume checking for Shock until you are Stabilized again.
+While a character is in Shock, you may use the Stabilize task on them. The Difficulty increases with the severity of the character's Injuries (see below). If the Stabilize Task succeeds, that character is Stable. Removes any tracked failures - you no longer need to make Endure Rank Checks to avoid Dying. Receiving any new Injury after whhile Stable causes your character to go into Shock again.
 
-The Difficulty of the Stabilize Task is determined by how severely Injured the recipient is:
+The Difficulty of the Stabilize Task is determined by how severely Injured the character is:
 
 Injury Level | Difficulty
 --- | ---
@@ -52,24 +46,33 @@ Critically Injured | Master
 
 If you have a First Aid kit, you may High Roll this Check.
 
-## Falling
-When you take a tumble from great heights, you can suffer Injuries. You automatically suffer an Injury of a specified amount, depending on how far you fell. It is assigned to a random part of your body.
+## Recovering from Injuries
+[Where do you talk about treating injuries? - DW]
+The Difficulty of the Rank Check to treat Injuries increases the more severe the Injuries are. Using a Medicine Kit reduces the Difficulty by (1). Medical Rest can be accomplished by spending your Rest in the care of a physician or healer, and significantly expedites the recovery process. Spending all of your time, not just your sleeping hours, in Medical Rest counts as (2) nights of Rest for the purposes of recovery from Injuries.
 
-If you fall:
+## Armor and Resistance
+Some Targets will be armored or more durable than normal, which makes them Resistant to some types of Injury. Generally, Armor will specify what parts of a character's body are protected and against what types of weapons. For example, a metal shield is Resistant to sharp weapons, while a padded helmet might be Resistant to blunt weapons.
+
+If a Target is Resistant to the type of Injury your character would receive, reduce its severity by one grade. Critical Injuries become Serious, Serious become Mild, and Mild are negated.
+
+## Falling
+When your character falls from a great height, they can suffer Injuries. Your character automatically suffers an Injury of a specified amount, depending on how far they fell. It is assigned to a random part of your body.
+
+If your character falls:
 10ft - Mild injury
 20ft - Serious injury
 30ft - Critical injury
 40 ft - Death
 
-If you drop intentionally:
+If your character drops intentionally:
 20ft - Mild injury
 30ft - Serious injury
 40ft - Critical injury
 50ft - Death
 
-The Injury can maim, or even kill, just as if you suffered an Injury from an Attack. Assign the Injury to a random location on your body. Roll a d4: a (1) means you landed on your head, which is Vulnerable. A (2) means you landed on an arm, a (3) on a leg (both Brim). Finally, a (4) means you landed square on your torso (Bulk).
+The Injury can maim, or even kill, just as if your character suffered an Injury from an Attack. Assign the Injury to a random location on your body. Roll a d4: a (1) means youur character landed on thier head, which is Vulnerable. A (2) means your character landed on an arm, a (3) on a leg (both Brim). Finally, a (4) means your character landed square on thier torso (Bulk).
 
-The circumstances of the fall could increase or decrease its deadliness. Falling onto soft snow would reduce the deadliness, while falling onto jagged rocks would increase it.
+The circumstances of the fall could increase or decrease its deadliness. Falling onto soft snow would reduce the deadliness, while falling onto jagged rocks would increase it. [What does this mean rules-wise? - Daniel]
 
 ### Random Injuries
 If you ever need to determine a truly randomized Injury, the below chart can be of use. Roll a d12 and consult the chart below.
