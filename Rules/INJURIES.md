@@ -1,5 +1,5 @@
 ## INJURIES
-Throughout play, Players and Threats alike will suffer Injuries. Injuries rcome in three grades of severity: Mild, Serious, and Critical. The more serious the Injury, the more debilitating it is and the more likely you are to go into Shock and die (see below).
+Throughout play, Players and Threats alike will suffer Injuries. Injuries come in three grades of severity: Mild, Serious, and Critical. The more serious the Injury, the more debilitating it is and the more likely you are to go into Shock and die (see below).
 
 A Player can suffer from (7) total Injuries without dying - that 8th Injury means death. There are (4) Mild Injury slots, (2) Serious, and (1) Critical. Once all the Injury boxes are filled of one type, any further Injuries of that type are filled in to the next most severe Injury boxes. Regardless of what the Injury Roll result said, the box that is filled in is what the severity of the Injury becomes.
 
