@@ -37,7 +37,7 @@ The difficulty of the Endure Rank Check depends on how severe your Injuries are:
 
 Injury Level | Difficulty
 --- | ---
-Severely Injured | Adept
+Seriously Injured | Adept
 Critically Injured | Master
 
 ### Stabilizing
