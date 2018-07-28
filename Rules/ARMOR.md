@@ -27,4 +27,4 @@ The "Protects" column specifies which Targets on your body are protected. The "I
 
 ### Shields
 
-While you are wielding a Shield, you can use it to make Block Checks. Additionally, when you use the Defend Action while wielding a Shield, you gain Cover against all Attacks from sources you are Facing.
+While you are wielding a Shield, you can use it to make Block Checks. Additionally, when you take the Defend Action while wielding a Shield, you gain Cover against all Attacks from sources you are Facing.
