@@ -50,13 +50,18 @@ If you have a First Aid kit, you may High Roll this Check.
 [Where do you talk about treating injuries? - DW]
 The Difficulty of the Rank Check to treat Injuries increases the more severe the Injuries are. Using a Medicine Kit reduces the Difficulty by (1). Medical Rest can be accomplished by spending your Rest in the care of a physician or healer, and significantly expedites the recovery process. Spending all of your time, not just your sleeping hours, in Medical Rest counts as (2) nights of Rest for the purposes of recovery from Injuries.
 
-## Armor and Resistance
+## Resistance and Vulnerability
 Some Targets will be armored or more durable than normal, which makes them Resistant to some types of Injury. Generally, Armor will specify what parts of a character's body are protected and against what types of weapons. For example, a metal shield is Resistant to sharp weapons, while a padded helmet might be Resistant to blunt weapons.
 
 If a Target is Resistant to the type of Injury your character would receive, reduce its severity by one grade. Critical Injuries become Serious, Serious become Mild, and Mild are negated.
 
+If a Target is Vulnerable to the type of Injury your character would receive, increase its severity by one grade. Mild become Serious, Serious become Critical, and Critical Injuries result in death.
+
+## Maiming
+When your character suffers an Injury to a limb, it may temporarily or permanently damage that limb. A limb that has suffered a Serious or Critical Injury becomes useless until that Injury has been removed - a leg cannot be walked on, forcing you to crawl or an arm hangs limp, unable to hold or wield a weapon. Some weapons or effects may destroy or sever a limb entirely when inflicting a Critical Injury, preventing the limb from every being used again!
+
 ## Falling
-When your character falls from a great height, they can suffer Injuries. Your character automatically suffers an Injury of a specified amount, depending on how far they fell. It is assigned to a random part of your body.
+When your character falls from a great height, they can suffer Injuries. Your character automatically suffers an Injury of a specified severity, depending on how far they fell. It is assigned to a random part of your body.
 
 If your character falls:
 10ft - Mild injury
@@ -70,25 +75,18 @@ If your character drops intentionally:
 40ft - Critical injury
 50ft - Death
 
-The Injury can maim, or even kill, just as if your character suffered an Injury from an Attack. Assign the Injury to a random location on your body. Roll a d4: a (1) means youur character landed on thier head, which is Vulnerable. A (2) means your character landed on an arm, a (3) on a leg (both Brim). Finally, a (4) means your character landed square on thier torso (Bulk).
+The Injury can maim, or even kill, just as if your character suffered an Injury from an Attack. Assign the Injury to a random location on your body (see Random Injuries below).
 
-The circumstances of the fall could increase or decrease its deadliness. Falling onto soft snow would reduce the deadliness, while falling onto jagged rocks would increase it. [What does this mean rules-wise? - Daniel]
+The circumstances of the fall could increase or decrease its deadliness. Falling onto soft snow would reduce the severity of the Injury suffered by one grade, while falling onto jagged rocks would increase it.
 
 ### Random Injuries
-If you ever need to determine a truly randomized Injury, the below chart can be of use. Roll a d12 and consult the chart below.
+If you ever need to apply an Injury to a random location on your character's body, roll a d6 and consult the chart below.
 
-d12 Result | Location | Severity
---- | --- | ---
-1 | head | critical
-2 | head | serious
-3 | head | mild
-4 | leg | critical
-5 | leg | serious
-6 | leg | mild
-7 | arm | critical
-8 | arm | serious
-9 | arm | mild
-10 | chest | critical
-11 | chest | serious
-12 | chest | mild
-
+d6 Result | Location
+--- | ---
+1 | head
+2 | right arm
+3 | left arm
+4 | right leg
+5 | left leg
+6 | chest
