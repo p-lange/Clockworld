@@ -65,11 +65,11 @@ When your character falls from a great height, they can suffer Injuries. Your ch
 
 Fall Height | Injury | Injury from Jump
 --- | --- | ---
-10 | Mild | None
-20 | Serious | Mild
-30 | Critical | Serious
-40 | Death | Critical
-50 | Death | Death
+10ft | Mild | None
+20ft | Serious | Mild
+30ft | Critical | Serious
+40ft | Death | Critical
+50ft | Death | Death
 
 The Injury can maim, or even kill, just as if your character suffered an Injury from an Attack. Assign the Injury to a random location on your body (see Random Injuries below).
 
