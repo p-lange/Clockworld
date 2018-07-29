@@ -61,23 +61,19 @@ If a Target is Vulnerable to the type of Injury your character would receive, in
 When your character suffers an Injury to a limb, it may temporarily or permanently damage that limb. A limb that has suffered a Serious or Critical Injury becomes useless until that Injury has been removed - a leg cannot be walked on, forcing you to crawl or an arm hangs limp, unable to hold or wield a weapon. Some weapons or effects may destroy or sever a limb entirely when inflicting a Critical Injury, preventing the limb from every being used again!
 
 ## Falling
-When your character falls from a great height, they can suffer Injuries. Your character automatically suffers an Injury of a specified severity, depending on how far they fell. It is assigned to a random part of your body.
+When your character falls from a great height, they can suffer Injuries. Your character automatically suffers an Injury of a specified severity, depending on how far they fell. It is assigned to a random part of your body. The severity of the Injury is determined by how far your character fell, and if they purposefully jumped down from the height.
 
-If your character falls:
-10ft - Mild injury
-20ft - Serious injury
-30ft - Critical injury
-40 ft - Death
-
-If your character drops intentionally:
-20ft - Mild injury
-30ft - Serious injury
-40ft - Critical injury
-50ft - Death
+Fall Height | Injury | Injury from Jump
+--- | --- | ---
+10 | Mild | None
+20 | Serious | Mild
+30 | Critical | Serious
+40 | Death | Critical
+50 | Death | Death
 
 The Injury can maim, or even kill, just as if your character suffered an Injury from an Attack. Assign the Injury to a random location on your body (see Random Injuries below).
 
-The circumstances of the fall could increase or decrease its deadliness. Falling onto soft snow would reduce the severity of the Injury suffered by one grade, while falling onto jagged rocks would increase it.
+The circumstances of the fall could increase or decrease its deadliness at the GM's discretion. Falling onto soft snow would reduce the severity of the Injury suffered by one grade, while falling onto jagged rocks would increase it.
 
 ### Random Injuries
 If you ever need to apply an Injury to a random location on your character's body, roll a d6 and consult the chart below.
