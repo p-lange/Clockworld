@@ -22,6 +22,8 @@
 
 **At Your Mercy** -  When a victim is entirely unable to defend themselves, whether they're tied up, unconscious, or otherwise completely restrained, they are considered At Your Mercy. Instead of rolling an Attack against the Target while they're within your Reach, simply choose a Location and apply whatever level of Injury you wish to that location. If you target a Vulnerable location, you can choose to instantly kill the target, by snapping their neck, shooting them in the face, or otherwise guaranteeing death.
 
+**Pinned** - Immobilized and unable to use either your arms and legs.
+
 ### DURATION
 
-Some abilities or effects that apply a Condition may specify how long that Condition lasts. This is usually represented by some time value, like "10 minutes" or "1 hour". However, some Conditions can be ended early if the victim successfully **Shakes it Off**. This is a special Action that allows you to roll a new Endure or Resist Check against each Condition you are suffering from that specifies that it can be Shaken Off. Like any other Action, you can focus on this Action to High Roll it. If you succeed on your Check, you remove that Condition.
+Some abilities or effects that apply a Condition may specify how long that Condition lasts. This is usually represented by some time value, like "10 minutes" or "1 hour". However, some Conditions can be ended early if the victim successfully **Shakes it Off**. This is a special Action that allows you to roll a new Endure, Escape, or Resist Check against each Condition you are suffering from that specifies that it can be Shaken Off. Like any other Action, you can focus on this Action to High Roll it. If you succeed on your Check, you remove that Condition.
