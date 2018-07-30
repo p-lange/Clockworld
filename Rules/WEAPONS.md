@@ -16,7 +16,7 @@ Spear | Polearms | Small | d10 | Sharp | Reach, Close | Throwable
 Dagger | Knives | Small | d12 | Sharp | Reach, Close | Throwable
 Small Improvised Weapons | Brawling | Small | d20 | Blunt or Sharp | Reach, Close | Ineffective against Armor.
 Large Improvised Weapons | Brawling | Large | d12 | Blunt or Sharp | Reach, Close | Ineffective against Armor.
-Body (Hands, Feet) | Brawling | Small | d20 | Blunt | Reach | Ineffective against Armor, Non-lethal. 
+Unarmed Strike (Hands, Feet) | Brawling | Small | d20 | Blunt | Reach | Ineffective against Armor, Non-lethal. 
 
 ### Reach Weapon Properties	
 Property | Description
