@@ -21,7 +21,15 @@ There are (5) types of Actions you can perform.
 * **Defend** - gain an additional Reaction until the start of your next Turn. When you focus on Defending, you High Roll all Reactions until the start of your next Turn.
 
 ## Checks
-Actions require you to roll a check to determine the success or failure of that action. A Check is performed by rolling a d10 and adding your Bonus from the relevant Skill, as well as any other modifiers, such as High Roll or Low Roll. Depending on the Action you’re using to make the Check, it is either compared against a Task Rank or the Contest of another Character, or both.
+Actions require you to roll a check to determine the success or failure of that action. A Check is performed by rolling a d10 and adding your Bonus from the relevant Skill, as well as any other modifiers, such as High Roll or Low Roll. Depending on the Action you’re using to make the Check, it is either compared against a Rank or the Check of another Character, or both.
+
+### Automatic Success and Failure
+If your Rank in the associated Skill is higher than the Rank of a Check you are attempting, you automatically succeed. If your Action is being Contested, you still need to make your roll.
+
+#### Skill Capped Tasks
+Some Tasks are bound by the physical limitations and Skill of your character. No matter how much you try, you cannot suddenly Leap twice as far as you could before, nor can you suddenly lift twice as much weight. A Skill Capped Task can only be attempted if your character's Rank in the relevant Skill is no more than one lower than the Task Rank - otherwise, you automatically fail the Check. For example, in order to attempt to leap across a chasm that as a Task Rank of Adept, your character must be at least a Novice in Athletics - otherwise, they will automatically fail!
+
+>*For example, Mudo is attempting to leap across a chasm. The Rank of the Task is Layman, and Mudo is a Novice at Athletics - therefore, he automatically succeeds on the Check and clears the gap! However, if the Rank of the leap was Master, Mudo has no chance of making it - he would plummet to his death if he attempted it!
 
 ### High Roll and Low Roll
 Frequently, circumstances will be in a character's favor, or against them. This often comes in the form of High Rolling and Low Rollg a Check. When you High Roll a Check, you roll 2d10 and take the higher of the two results. When you Low Roll a Check, you roll 2d10 and take the lower of the two results, and you do not automatically succeed on Tasks with a Rank lower than your Skill Rank. If circumstances would cause you to both High Roll and Low Roll a Check, they cancel each other out, no matter how many instances of High Roll or Low Roll you have.
@@ -134,9 +142,6 @@ Legendary | 13 | -
 
 ### Lengthy Tasks
 Some Tasks may take more than the few moments to complete, as determined by the GM. The lock on a safe might take several minutes to complete or tracking a criminal through the hills might take several hours. You roll the Check for a Lengthy Task at the end of the specified time period; during that time, you can do nothing else but perform the Task. If you wish to focus on completing a Lengthy Task in order to High Roll your Check, double the time it would take to complete.
-
-### Skill Capped Tasks
-Some Tasks are bound by the physical limitations and Skill of your character. No matter how much you try, you cannot suddenly Leap twice as far as you could before, nor can you suddenly lift twice as much weight. A Skill Capped Task can only be attempted if your character's Rank in the relevant Skill is no more than one lower than the Task Rank - otherwise, you automatically fail the Check. For example, in order to attempt to leap across a chasm that as a Task Rank of Adept, your character must be at least a Novice in Athletics - otherwise, they will automatically fail!
 
 ## Reactions
 A Reaction is a special reactive or defensive ability that is done in response to the Actions of others, such as Blocking, Dodging, or Taking Cover. At the start of your Turn, you have (2) Reactions that you can use at any time before the start of your next Turn. You may only React with a single Reaction to any given Action, however multiple Characters can each use a Reaction in response to a single Action. A Reaction occurs before the Action that triggers it, possibly interfering with or preventing the original Action from succeeding.
