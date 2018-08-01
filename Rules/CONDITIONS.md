@@ -22,6 +22,8 @@
 
 **At Your Mercy** -  When a victim is entirely unable to defend themselves, whether they're tied up, unconscious, or otherwise completely restrained, they are considered At Your Mercy. Instead of rolling an Attack against the Target while they're within your Reach, simply choose a Location and apply whatever level of Injury you wish to that location. If you target a Vulnerable location, you can choose to instantly kill the target, by snapping their neck, shooting them in the face, or otherwise guaranteeing death.
 
+**Burning** - Set on fire, covered in burning acid, etc. If one location on your body is on Burning, it takes a Mild Injury at the end of each of your Turns until you Shake it Off or douse it in water. If more than one location on your body is Burning, you instead take a Serious Injury at the end of each of your Turns. While Burning, you are Distracted with pain.
+
 **Pinned** - Immobilized and unable to use either your arms and legs.
 
 ### DURATION
