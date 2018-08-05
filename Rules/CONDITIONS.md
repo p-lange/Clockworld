@@ -26,6 +26,10 @@
 
 **Pinned** - Immobilized and unable to use either your arms and legs.
 
+**Impeded** - slightly restrained, entangled, or hampered. While Impeded, you Low Roll all Reactions.
+
+**Encumbered** - weighed down or so exhausted you can’t move yourself easily. Your Speed is reduced by half and you Low Roll all Move Checks.
+
 ### DURATION
 
 Some abilities or effects that apply a Condition may specify how long that Condition lasts. This is usually represented by some time value, like "10 minutes" or "1 hour". However, some Conditions can be ended early if the victim successfully **Shakes it Off**. This is a special Action that allows you to roll a new Endure, Escape, or Resist Check against each Condition you are suffering from that specifies that it can be Shaken Off. Like any other Action, you can focus on this Action to High Roll it. If you succeed on your Check, you remove that Condition.
