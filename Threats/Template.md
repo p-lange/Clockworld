@@ -22,9 +22,9 @@ ___
 >*Medium horror*
 > ___
 
-> - **Mild Injuries**: 8 -- ◯ ◯ ◯ ◯ ◯ ◯ ◯ ◯
-> - **Serious Injuries:** 2 -- ◯ ◯
-> - **Critical Injuries:** 1 -- ◯
+> - **Mild Injuries**: 8 
+> - **Serious Injuries:** 2
+> - **Critical Injuries:** 1
 > - **Speed:** 15ft.
 >___
 >|Might|Reflexes|Acuity|Athletics|
