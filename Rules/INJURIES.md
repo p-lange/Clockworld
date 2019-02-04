@@ -10,17 +10,17 @@ There are seven total injury slots: (4) Mild, (2) Serious, and (1) Critical. Onc
 ## Mild Injuries
 Scrapes, flesh wounds, bruises, and minor cuts. A mild inury does not directly affect your character.
 #### Recovering from Mild Injuries
-With one minute of unimpeded rest, your character recovers from all mild injuries. 
+You recover from all of your Mild Injuries when you Take a Breather. 
 
 ## Serious Injuries
 Gashes, lacerations, bleeding cuts, and badly sprained or even broken limbs. When Seriously Injured, your character goes into shock and you must make Endure Rank Checks every minute.
 #### Recovering from Serious Injuries
-After two nights of Rest, or one night of Medical Rest - such as bandaging, splints, and stiches - your character recovers from their Serious Injuries. 
+You recover from all of your Serious Injuries when you have a Moment of Reprieve.
 
 ## Critical Injuries
 Gut shots, gushing wounds, and severed limbs. When critically injured, your character goes into shock and you must make Endure Rank Checks at the end of evvery player turn.
 #### Recovering from Critical Injuries
-After 10 nights of Rest, or 5 days of Medical Rest, your character recovers from their Critical Injury.
+During a Moment of Reprieve, you recover from a Critical Injury if you have access to medical care. Otherwise, it is downgraded to a Serious Injury.
 
 **Instant Death -** If your charcacter suffers a Critical Injury to a Vulnerable spot on their body, they are killed immediately.
 
@@ -47,8 +47,7 @@ Critically Injured | Master
 If you have a First Aid kit, you may High Roll this Check.
 
 ## Recovering from Injuries
-[Where do you talk about treating injuries? - DW]
-The Difficulty of the Rank Check to treat Injuries increases the more severe the Injuries are. Using a Medicine Kit reduces the Difficulty by (1). Medical Rest can be accomplished by spending your Rest in the care of a physician or healer, and significantly expedites the recovery process. Spending all of your time, not just your sleeping hours, in Medical Rest counts as (2) nights of Rest for the purposes of recovery from Injuries.
+See the DOWNTIME chapter for more information.
 
 ## Resistance and Vulnerability
 Some Targets will be armored or more durable than normal, which makes them Resistant to some types of Injury. Generally, Armor will specify what parts of a character's body are protected and against what types of weapons. For example, a metal shield is Resistant to sharp weapons, while a padded helmet might be Resistant to blunt weapons.
