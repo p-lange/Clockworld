@@ -1,5 +1,5 @@
-# TAKING A BREATHER
-During a Scenario, the GM may allow the Players to Take a Breather. This represents a few precious minutes of downtime where the Players can patch-up their Injuries, reload their weapons, and take stock of the situation. All Characters can resolve the following, and are assumed to have a done so unless otherwise stated by the Players.
+# BREATHER
+During a Scenario, the GM may allow the Players to take a Breather. This represents a few precious minutes of downtime where the Players can patch-up their Injuries, reload their weapons, and take stock of the situation. All Characters can resolve the following, and are assumed to have a done so unless otherwise stated by the Players.
 * Remove all Mild Injuries from all Characters.
 * Automatically Stabilize any Injured Characters.
 * Reload all weapons, if sufficient ammunition is available.
