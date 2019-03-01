@@ -18,7 +18,7 @@ There are (5) types of Actions you can perform.
 * **Contest** - perform a Contest, such as Disarming or Distracting a foe.
 * **Move** - move a distance up to your Speed, including traversing terrain. You may take your other Action at any point during the movement. When you focus on your Move, you may move (15ft) more, in addition to High Rolling any Checks.
 * **Task** - perform a Task, like picking a lock or breaking down a door. You can perform two Task Actions on your turn as long as they are different Tasks.
-* **Defend** - gain an additional Reaction until the start of your next Turn. When you focus on Defending, you High Roll all Reactions until the start of your next Turn.
+* **Defend** - choose to either High Roll all Reactions until the star of your next Turn or gain an additional Reaction until the start of your next Turn. When you focus on Defending, you gain both benefits.
 
 ## Checks
 Actions require you to roll a check to determine the success or failure of that action. A Check is performed by rolling a d10 and adding your Bonus from the relevant Skill, as well as any other modifiers, such as High Roll or Low Roll. Depending on the Action you’re using to make the Check, it is either compared against a Rank or the Check of another Character, or both.
