@@ -131,8 +131,7 @@ Master | 9 | -
 Inhuman | 11 | -
 Legendary | 13 | -
 
-* **Dismantle** - Take apart or otherwise make non-functional a mechanical object, such as the lock on a door, the wheel of a hubcap, or a firearm. The GM may determine that this is a Lengthy Task, requiring several Actions to complete.  
-* **Crack** - Bypass the normal access to a locked or keyed object or machine, such as a safe or an automobile. If you succeed, you gain access or can control the object or machine. The GM may determine that this is a Lengthy Task, requiring several Actions to complete.
+* **Crack** - Bypass the normal access to a locked or keyed object or machine, such as a safe or an automobile, or take apart or render non-functional a mechanical object or item, like a locked door. If you succeed, you gain access, control, or break-down the relevant object. The GM may determine that this is a Lengthy Task, requiring several Actions to complete.
 * **Break (Capped)** - Destroy or seriously damage an unattended object, such as a door or a window. 
 * **Stabilize** - Stabilize a Character that is Seriously or Critically Injured. The Rank is Adept for Seriously Injured and Master for Critically Injured. Using a First Aid Kit reduces the Rank by (1).
 * **Heft (Capped)** - Lift, push, or carry something very heavy, such as an unconscious person or a large crate. If you succeed on the Check, you can lift the object and carry it with you as you Move.
