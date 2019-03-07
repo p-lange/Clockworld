@@ -75,7 +75,7 @@ Thrown Weapons | Area Attack, Ranged Attack
 Skill | Actions
 ------- | -------
 Athletics | Endure, Move, Take Cover
-Deft Hands | Crack, Dismantle, Sneak*, Disarm*, Stabilize
+Deft Hands | Crack, Sneak*, Disarm*, Stabilize
 Might | Break, Endure, Heft, Shove
 Reflexes | Dodge, Sneak, Take Cover, Tumble
 
