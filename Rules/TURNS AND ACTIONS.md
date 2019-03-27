@@ -103,17 +103,11 @@ A Contest involves all characters rolling a relevant Check and comparing the res
 * **Resist** - Resist the effects of mental assault, such as Distract or Persuade. The GM could also call for a Resist Check to stay awake for a long period of time or remain focused despite distracting circumstances, or when you are Targeted with certain Contests.
 
 ## Move
-Moving encompasses all manner of movement, including traversing obstacles and challenging environmental situations. Simply walking or running does not require a Check. If there are obstacles in your way, such as walls, gaps, or bodies of water, you may have to make Checks to traverse them. These do not take a separate Action, they are simply made as part of your Move. The GM determines the Rank of the obstacle, which you must overcome with a Check, likely using the Athletics Skill. This follows the same structure as a Task (see below). If you succeed on the Check, you successfully traverse the terrain. If you fail, your Move stops and you cannot Move any further with that Action. All Move Tasks are Skill Capped (see below).
+Moving encompasses all manner of movement, including traversing obstacles and challenging environmental situations. When you Move, you can travel a total distance up to your Speed. You can split your total Movement before and after your other Action. Simply walking or running does not require a Check, but if there are obstacles in your way, such as walls, gaps, or bodies of water, you may have to make Checks to traverse them. These do not take separate Actions; they are simply made as part of your Move. The GM determines the Rank of the obstacle, which you must overcome with a Check, likely using the Athletics Skill. This follows the same structure as a Task (see below). If you succeed on the Check, you successfully traverse the terrain. If you fail, your Move ends and you cannot Move any further with that Action. All Move Tasks are Skill Capped (see below). 
 
-When you Move, you are assumed to be Facing in the direction you are Moving. If you wish to be Facing a different direction than the way you’re Moving, your Speed is reduced by half.
+**Sneaking**: When you Move, you may attempt to avoid notice. While Sneaking, your Speed is 15ft. Roll a Reflexes Check and compare it to the Perceive Rank of any Threats from which you have Cover and Concealment during your Move. Threats are Unaware of you if you beat their Perceive Rank. If you take any other Action, Threats are no longer Unaware of you after you have completed that Action.
 
-You may choose your Facing at the start and end of your Turn. As a Reaction, you can change your Facing at any time.
-
-**Sneaking**: When you Move, you may attempt to do so Sneakily. At the end of your Movement, roll a Sneak Rank Check and compare it to the Perceive Ranks of those that could see or hear you. Characters whose Perceive you beat are Unaware of you and your Movement as long as you had Cover or Concealment throughout the Movement. If you Moved more than half your Speed while Sneaking, you Low Roll the Sneak Check.
-
-You may also attempt to perform any other Action Sneakily. Simply roll the Sneak Check once you have completed the Action to determine who was Unaware.
-
-Making an Attack automatically reveals you unless the weapon has the Silent Property.
+**Focusing on Move**: When you focus on Moving, you gain two benefits: your Speed increases by (+15) feet and you High Roll any Checks made to traverse terrain or Sneak during the Move.
 
 ## Tasks
 Tasks cover interactions with objects and the environment. From picking a lock to tracking a coyote through the desert, Tasks cover a wide variety of situations.
